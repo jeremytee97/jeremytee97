@@ -1,18 +1,19 @@
-  
-name: Latest blog post workflow
+name: Update stats
+
 on:
   schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
+    # Runs every day
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+  update-readme:
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: athul/waka-readme@master
         with:
-          max_post_count: "4"
-          feed_list: "https://dev.to/feed/gautamkrishnar,https://www.gautamkrishnar.com/feed/"
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN}}
+          USERNAME: jeremytee97
+          SHOW_TITLE: false
