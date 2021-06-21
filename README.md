@@ -13,7 +13,7 @@ This is the place where I break things :rofl:
 #### 📊 **This Week I Spent My Time On**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Markdown   4 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 ---
