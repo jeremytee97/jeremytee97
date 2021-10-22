@@ -23,8 +23,7 @@ Welcome to my repository! This is the place where I learn and experiment with ne
 #### 📊 **This Week I Spent My Time On**
 <!--START_SECTION:waka-->
 ```text
-Python   1 hr 53 mins    ████████████████████████▒   97.69 % 
-TOML     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+Python   5 hrs 11 mins   █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
