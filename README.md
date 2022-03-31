@@ -24,11 +24,12 @@ Welcome to my repository! This is the place where I learn and experiment with ne
 <!--START_SECTION:waka-->
 
 ```text
-Python   4 hrs 28 mins   ███████████████████░░░░░░   76.57 %
-YAML     52 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.85 %
-INI      13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
-Docker   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
-Other    5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+Python       6 hrs 27 mins   █████████████████▓░░░░░░░   70.42 %
+YAML         2 hrs 10 mins   ██████░░░░░░░░░░░░░░░░░░░   23.79 %
+TOML         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+Docker       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Markdown     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+Other        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
 ```
 
 <!--END_SECTION:waka-->
