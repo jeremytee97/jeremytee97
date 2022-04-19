@@ -24,9 +24,12 @@ Welcome to my repository! This is the place where I learn and experiment with ne
 <!--START_SECTION:waka-->
 
 ```text
-Python       6 hrs 13 mins   █████████████████████░░░░   83.89 %
-Properties   30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
-Other        10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+Python       5 hrs 53 mins   █████████████████████▒░░░   85.15 %
+Properties   30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
+Bash         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+CSV          8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+TOML         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+YAML         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
 ```
 
 <!--END_SECTION:waka-->
