@@ -24,10 +24,7 @@ Welcome to my repository! This is the place where I learn and experiment with ne
 <!--START_SECTION:waka-->
 
 ```text
-INI        0 secs          █████████████████████▓░░░   87.15 %
-TOML       0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
-Markdown   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
-Other      0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
