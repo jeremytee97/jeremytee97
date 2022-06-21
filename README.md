@@ -24,7 +24,10 @@ Welcome to my repository! This is the place where I learn and experiment with ne
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Terraform   1 min           ██████████▒░░░░░░░░░░░░░░   40.74 %
+Text        1 min           █████████▒░░░░░░░░░░░░░░░   37.47 %
+JSON        0 secs          █████░░░░░░░░░░░░░░░░░░░░   20.52 %
+Python      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
 ```
 
 <!--END_SECTION:waka-->
