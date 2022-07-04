@@ -24,12 +24,7 @@ Welcome to my repository! This is the place where I learn and experiment with ne
 <!--START_SECTION:waka-->
 
 ```text
-YAML         1 hr 25 mins    █████████░░░░░░░░░░░░░░░░   36.57 %
-Bash         1 hr 1 min      ██████▓░░░░░░░░░░░░░░░░░░   26.31 %
-Python       57 mins         ██████░░░░░░░░░░░░░░░░░░░   24.46 %
-Markdown     21 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.38 %
-Git Config   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
-TOML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
