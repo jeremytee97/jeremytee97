@@ -24,8 +24,7 @@ Welcome to my repository! This is the place where I learn and experiment with ne
 <!--START_SECTION:waka-->
 
 ```text
-Terraform   6 mins          ██████████████░░░░░░░░░░░   55.47 %
-JSON        5 mins          ███████████░░░░░░░░░░░░░░   44.53 %
+Terraform   1 min           █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
