@@ -24,7 +24,12 @@ Welcome to my repository! This is the place where I learn and experiment with ne
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+SQL     22 mins         ████████▓░░░░░░░░░░░░░░░░   34.23 %
+Java    19 mins         ███████▒░░░░░░░░░░░░░░░░░   29.35 %
+YAML    14 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.31 %
+TOML    6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.13 %
+Bash    3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
