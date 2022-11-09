@@ -24,10 +24,9 @@ Welcome to my repository! This is the place where I learn and experiment with ne
 <!--START_SECTION:waka-->
 
 ```text
-SQL         7 hrs 54 mins   ██████████████▓░░░░░░░░░░   58.81 %
-Python      2 hrs 18 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.21 %
-YAML        2 hrs 10 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.21 %
-Other       58 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
+SQL      10 hrs 59 mins  ██████████████████░░░░░░░   72.00 %
+YAML     2 hrs 28 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.26 %
+Other    1 hr 13 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 %
 ```
 
 <!--END_SECTION:waka-->
