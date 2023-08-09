@@ -24,7 +24,9 @@ Welcome to my repository! This is the place where I learn and experiment with ne
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+SQL    0 secs          ████████████████░░░░░░░░░   63.76 %
+JSON   0 secs          ███████▒░░░░░░░░░░░░░░░░░   29.57 %
+YAML   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
 ```
 
 <!--END_SECTION:waka-->
