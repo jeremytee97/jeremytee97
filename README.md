@@ -24,9 +24,8 @@ Welcome to my repository! This is the place where I learn and experiment with ne
 <!--START_SECTION:waka-->
 
 ```txt
-Terraform   2 mins          ██████████████████░░░░░░░   71.77 %
-SQL         0 secs          ████▓░░░░░░░░░░░░░░░░░░░░   19.15 %
-Prolog      0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 %
+Prolog      0 secs          █████████████████████░░░░   83.96 %
+Terraform   0 secs          ████░░░░░░░░░░░░░░░░░░░░░   16.04 %
 ```
 
 <!--END_SECTION:waka-->
