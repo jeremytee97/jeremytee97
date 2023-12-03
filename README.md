@@ -24,9 +24,7 @@ Welcome to my repository! This is the place where I learn and experiment with ne
 <!--START_SECTION:waka-->
 
 ```txt
-Python       41 mins         ██████████████████▒░░░░░░   73.80 %
-Bash         14 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.19 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
